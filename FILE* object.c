@@ -5,7 +5,7 @@ int main() {
 
     char* fl_name;
 
-    printf("Enter a file name to read: ");
+   printf("Enter a file name to read: ");
 
    scanf("%s", fl_name);
 
