@@ -3,7 +3,7 @@
 
 int main() {
 
-    char* fl_name;
+   char* fl_name;
 
    printf("Enter a file name to read: ");
 
